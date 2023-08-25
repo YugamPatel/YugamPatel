@@ -1,17 +1,18 @@
 <h1 align="center">Hey, I'm Yugam Patel!</h1>
-<h3 align="center">🌟 Aspiring Developer & Lifelong Learner 🌟</h3> <br>
+<h3 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h3> <br>
 
-- <h2>🌱 What I'm Learning.</h2> <h3>I'm currently diving deep into:</h3><ul>
+<img alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+<h2>🌱 What I'm Learning.</h2> <h3>I'm currently diving deep into:</h3><ul>
   <li>Flutter 📱</li>
   <li>React JS ⚛️</li>
   <li>AWS ☁️</li>
 </ul> <br>
 
-- <h2>🤩 Why I'm Excited.</h2><p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching! 🚀</p><br>
+<h2>🤩 Why I'm Excited.</h2> <p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching! 🚀</p><br>
 
-- <h2>📫How to reach me : </h2><p><a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a></p><br>
+<h2>📫How to reach me : </h2><p><a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a></p><br>
 
-- <h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀</p><br>
+<h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀</p><br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
