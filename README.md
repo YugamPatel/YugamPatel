@@ -17,8 +17,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/yugampatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugam patel" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yugampatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yugam patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yugampatel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugam patel" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yugampatel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yugam patel" height="30" width="40" /></a>
 </p><br>
 
 <h2 align="left">Languages and Tools:</h2>
