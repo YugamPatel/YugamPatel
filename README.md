@@ -1,7 +1,8 @@
+![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png)
 <h1 align="center">Hey, I'm Yugam Patel!</h1>
 <h3 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h3> <br>
 
-<img alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+<img align="right" alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 <h2>🌱 What I'm Learning.</h2> <h3>I'm currently diving deep into:</h3><ul>
   <li>Flutter 📱</li>
   <li>React JS ⚛️</li>
