@@ -1,6 +1,6 @@
 ![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png)
 <h1 align="center">Hey, I'm Yugam Patel!</h1>
-<h3 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h3> <br>
+<h2 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h2> <br>
 <p align="center">
 <img align="justify" alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 </p><br>
