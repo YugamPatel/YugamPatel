@@ -1,19 +1,34 @@
 ![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png)
 <h1 align="center">Hey, I'm Yugam Patel!</h1>
 <h3 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h3> <br>
+<p align="center">
+<img align="justify" alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+</p><br>
 
-<img align="right" alt="CODING" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
+<h1>📖📌 About Me</h1>
+
+<ul align="justify">
+  <li>📚 Currently studying Computer Science at the University of Manitoba.</li>
+  <li>👨🏻‍💻 My journey started with a simple "Hello World," and since then, I've been hooked.</li>
+  <li>💻 Adept Java Developer specialized in crafting efficient and scalable solutions.</li>
+  <li>🧠 Armed with robust problem-solving skills.</li>
+  <li>🌍 Every line of code is a step toward making the digital world better.</li>
+  <li>🎯 Philosophy: Learn something new every day!.</li>
+  <li>🤝 Open to co-op and job opportunities that align with my skills.</li>
+</ul><br>
+
+
 <h2>🌱 What I'm Learning.</h2> <h3>I'm currently diving deep into:</h3><ul>
   <li>Flutter 📱</li>
   <li>React JS ⚛️</li>
   <li>AWS ☁️</li>
 </ul> <br>
 
-<h2>🤩 Why I'm Excited.</h2> <p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching! 🚀</p><br>
+<h2>🤩 Why I'm Excited.</h2> <p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching!. 🚀</p><br>
 
 <h2>📫How to reach me : </h2><p><a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a></p><br>
 
-<h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀</p><br>
+<h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀.</p><br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
