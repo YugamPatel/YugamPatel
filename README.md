@@ -26,7 +26,7 @@
 
 <h2>🤩 Why I'm Excited.</h2> <p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching!. 🚀</p><br>
 
-<h2>📫How to reach me : </h2><p><a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a></p><br>
+<h2>📫How to reach me : </h2><p> 📧 Email: <a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a><br>💼 LinkedIn: <a href="https://www.linkedin.com/in/yugampatel/">Yugam Patel.</a></p><br>
 
 <h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀.</p><br>
 
