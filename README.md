@@ -5,7 +5,7 @@
 <img align="justify" alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 </p><br>
 
-<h1>📖 About Me</h1>
+<h2>📖 About Me</h2>
 
 <ul align="justify">
   <li>📚 Currently studying Computer Science at the University of Manitoba.</li>
