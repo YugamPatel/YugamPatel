@@ -8,13 +8,13 @@
 <h2>📖 About Me</h2>
 
 <ul align="justify">
-  <li>📚 Currently studying Computer Science at the University of Manitoba.</li>
-  <li>👨🏻‍💻 My journey started with a simple "Hello World," and since then, I've been hooked.</li>
-  <li>💻 Adept Java Developer specialized in crafting efficient and scalable solutions.</li>
-  <li>🧠 Armed with robust problem-solving skills.</li>
-  <li>🌍 Every line of code is a step toward making the digital world better.</li>
-  <li>🎯 Philosophy: Learn something new every day!.</li>
-  <li>🤝 Open to co-op and job opportunities that align with my skills.</li>
+<li>📚 Currently studying Computer Science at the University of Manitoba.</li>
+<li>👨🏻‍💻My journey started with a simple "Hello World," and since then, I've been hooked.</li>
+<li>💻 Adept Java Developer specialized in crafting efficient and scalable solutions.</li>
+<li>🧠 Armed with robust problem-solving skills.</li>
+<li>🌍 Every line of code is a step toward making the digital world better.</li>
+<li>🎯 Philosophy: Learn something new every day!.</li>
+<li>🤝 Open to co-op and job opportunities that align with my skills.</li>
 </ul><br>
 
 
