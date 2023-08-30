@@ -31,6 +31,10 @@
 
 <h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀.</p><br>
 
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
 <h2 align="left">📌 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/yugampatel/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugam patel" height="30" width="40" /></a>
