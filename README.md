@@ -1,4 +1,4 @@
-![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png)
+<!-- ![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png) -->
 
 <h1 align="center">Hey, I'm Yugam. <t></t><!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--><img src="https://media1.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=ecf05e4700pjxen2ai70pw0h75oojlobtcvaffb240hl04v7&rid=giphy.gif&ct=s" width="75"></h1>
 <h2 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h2> <br>
