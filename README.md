@@ -1,5 +1,7 @@
 <!-- ![logo](https://github.com/YugamPatel/YugamPatel/blob/main/githubBanner.png) -->
-
+<p align="center">
+<img align="justify" alt="gridSnake" width="2000" src="https://github.com/YugamPatel/YugamPatel/blob/main/grid-snake.svg"></img>
+</p><br>
 <h1 align="center">Hey, I'm Yugam. <t></t><!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">--><img src="https://media1.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=ecf05e4700pjxen2ai70pw0h75oojlobtcvaffb240hl04v7&rid=giphy.gif&ct=s" width="75"></h1>
 <h2 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h2> <br>
 <p align="center">
@@ -68,4 +70,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p><br>
+
+<p align="center">
+<img align="justify" alt="gridSnake" width="2000" src="https://github.com/YugamPatel/YugamPatel/blob/main/grid-snake.svg"></img>
+</p>
 
