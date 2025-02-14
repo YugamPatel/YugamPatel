@@ -3,7 +3,7 @@
 <img align="justify" alt="gridSnake" width="2000" src="https://github.com/YugamPatel/YugamPatel/blob/main/grid-snake.svg"></img>
 </p><br>
 <h1 align="center">Hey, I'm Yugam. <t></t><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><!--<img src="https://media1.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=ecf05e4700pjxen2ai70pw0h75oojlobtcvaffb240hl04v7&rid=giphy.gif&ct=s" width="75">--></h1>
-<h2 align="center">🔍 Curiosity-Fueled Aspiring Developer 🚀</h2> <br>
+<h2 align="center">🔍 Aspiring Developer 🚀</h2> <br>
 <p align="center">
 <img align="justify" alt="CODING" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 </p><br>
@@ -11,10 +11,9 @@
 <h2>📖 About Me</h2>
 
 <ul align="justify">
-<li>📚 Currently studying Computer Science at the University of Manitoba.</li>
+<li>📚 Pursuing a Computer Science degree at the University of Manitoba.</li>
 <li>👨🏻‍💻My journey started with a simple "Hello World," and since then, I've been hooked.</li>
-<li>💻 Adept Java Developer specialized in crafting efficient and scalable solutions.</li>
-<li>🧠 Armed with robust problem-solving skills.</li>
+<li>💻 Proficient in Java, with a focus on building efficient and scalable solutions.</li>
 <li>🌍 Every line of code is a step toward making the digital world better.</li>
 <li>🎯 Philosophy: Learn something new every day!.</li>
 <li>🤝 Open to co-op and job opportunities that align with my skills.</li>
@@ -29,7 +28,7 @@
 
 <h2>🤩 Why I'm Excited.</h2> <p>🔥 I am <b>SUPER EXCITED</b> to learn new technologies every single day! The thrill of learning something new pumps adrenaline into my veins! From resolving bugs 🐛 to implementing new features, every challenge I face keeps my days exciting and enriching!. 🚀</p><br>
 
-<h2>📫 How to reach me : </h2><p> 📧 Email: <a href="mailto:yugampatel.github@gmail.com">yugampatel.github@gmail.com</a><br>💼 LinkedIn: <a href="https://www.linkedin.com/in/yugampatel/">Yugam Patel.</a></p><br>
+<h2>📫 How to reach me : </h2><p> 📧 Email: <a href="mailto:yugampatel@gmail.com">yugampatel@gmail.com</a><br>💼 LinkedIn: <a href="https://www.linkedin.com/in/yugampatel/">Yugam Patel.</a></p><br>
 
 <h2>🎯 Open for Opportunities</h2> <p>🙋‍♂️ I am openly considering hires for roles that align with my expertise! So, if you're looking for someone enthusiastic and skilled, look no further! 👀.</p><br>
 
